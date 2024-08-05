@@ -1,0 +1,2 @@
+﻿CREATE SCHEMA [Tzdb] AUTHORIZATION [dbo]
+GO

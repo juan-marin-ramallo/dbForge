@@ -1,0 +1,3 @@
+﻿CREATE USER [anogueira]
+  WITHOUT LOGIN
+GO
