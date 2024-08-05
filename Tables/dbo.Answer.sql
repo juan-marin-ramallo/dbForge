@@ -13,6 +13,7 @@
   [IdQuestionOption] [int] NULL,
   [ImageUrl] [varchar](5000) NULL,
   [DoesNotApply] [bit] NULL CONSTRAINT [DF_Answer_DoesNotApply] DEFAULT (0),
+  [test] [bit] NULL,
   CONSTRAINT [PK_Answer] PRIMARY KEY CLUSTERED ([Id])
 )
 ON [PRIMARY]
